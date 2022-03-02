@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - Project Sloth https://github.com/Project-Sloth
 - 💬 About Me - Nathan Random FiveM Dev!
 - 📫 How to reach me: Via Discord - Nathan#8860
 
