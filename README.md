@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💬 About Me - Nathan Random FiveM Dev!
-- 📫 I am no longer providing support or updating my scripts, have an issue raise it on git
-- 📫 How to reach me: Via Discord - Nathan#8860
+- 📫 I am only providing support through github, have an issue raise it on git
+- 📫 How to reach me: Via Discord - ???
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-FiveM&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=9B15DD&ring=9B15DD&currStreakLabel=9B15DD)](https://git.io/streak-stats)
 
