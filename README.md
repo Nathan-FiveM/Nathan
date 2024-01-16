@@ -2,7 +2,7 @@
 
 - 💬 About Me - Nathan Random FiveM Dev!
 - 📫 I am only providing support through github, have an issue raise it on git
-- 📫 How to reach me: Via Discord - ???
+- 📫 How to reach me: Via Discord - nathan2494
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-FiveM&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=9B15DD&ring=9B15DD&currStreakLabel=9B15DD)](https://git.io/streak-stats)
 
